@@ -134,3 +134,20 @@ footer p {
 .row-section div h2, .row-section div p {
     padding: 0 20px;
 }
+
+.food-menu-section {
+    padding-left: 2rem;
+}
+
+.food-menu-section h2 {
+    margin-bottom: 0.5rem;
+}
+
+.food-menu-section ul {
+    margin-top: 0.25rem;
+    list-style: none;
+}
+
+.food-menu-section li {
+    margin-bottom: 1rem;
+}
